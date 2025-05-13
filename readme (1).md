@@ -3,11 +3,6 @@
 This project showcases a **sales and outlet analytics dashboard** created for Blinkit — *India's Last Minute App*.  
 It highlights total sales, number of items, average sales, average rating, outlet establishment trends, and item type distribution.
 
-## 📸 Project Preview
-
-![Dashboard Preview](C:\Users\NAENDA KUMAR\Pictures\Screenshots\Screenshot 2025-05-13 191429.png)
----
-
 ## 🔥 Features
 
 - **Filter Panel**: Easily filter by outlet location type, outlet size, and item type.
